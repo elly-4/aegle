@@ -3,7 +3,9 @@
 
 To run the project please use Google colab and import coords(1) csv. 
 
-The project should demonstrate the assessment title along with the score. 
+<h4>Please see here for the HINE evalutaion system - http://hammersmith-neuro-exam.com/wp-content/uploads/2019/02/HINE-proforma_08.02.19.pdf </h4>
+
+The project should demonstrate the assessment title along with the score such as the following 'FacialAppearance3'
 
 <h4>Below are the Face appearance scores </h4>
 <img width="856" alt="Screen Shot 2021-08-14 at 11 36 58 PM" src="https://user-images.githubusercontent.com/63363643/129466199-ed7aa855-afa0-4ce0-a2a3-5ab81905ea76.png">
