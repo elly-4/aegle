@@ -1,7 +1,7 @@
 # aegle
 <h2>Detection of signs of ceberal palsy using the HINE evaluation system. </h2>
 
-To run the project please use Google colab and import coords(1) csv. 
+To run the project please use Google colab and import coords(1) csv. and rename the file to coords.csv
 
 <h4>Please see here for the HINE evalutaion system - http://hammersmith-neuro-exam.com/wp-content/uploads/2019/02/HINE-proforma_08.02.19.pdf </h4>
 
