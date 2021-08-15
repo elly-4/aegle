@@ -1,5 +1,5 @@
 # aegle
-Detection of signs of ceberal palsy using the HINE evaluation system. 
+<h2>Detection of signs of ceberal palsy using the HINE evaluation system. <h2>
 
 To run the project please use Google colab and import coords(1) csv. 
 
